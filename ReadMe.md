@@ -1,6 +1,6 @@
 ## Setup Environment
 1. Buka aplikasi **VSCODE**
-2. Clone repository 
+2. Clone repository https://github.com/nadyarp/Optical-Mark-Recognition/
 3. Masuk ke direktori **Optical Mark Recognition**
 4. Download OpenCV untuk Python dengan perintah `pip install opencv-python` 
 5. Download Numpy dengan perintah `pip install opencv-python` 
